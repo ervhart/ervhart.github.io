@@ -1,0 +1,52 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "Untitled0.ipynb",
+      "provenance": [],
+      "authorship_tag": "ABX9TyOarEicYj43yrrCleM/GFuc",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/ervhart/ervhart.github.io/blob/main/Correlation%20in%20Python\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "776cdzHR2JWU"
+      },
+      "source": [
+        ""
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "5zgicGpM2N1s"
+      },
+      "source": [
+        "Author: Muhydeen Olakunle Adelani\n",
+        "Data Source: https://www.kaggle.com/danielgrijalvas/movies\n",
+        "Project Purpose: Finding correlation in Python with Movie Industry Data.\n",
+        "Tools Used: Python, Python Libraries"
+      ]
+    }
+  ]
+}
